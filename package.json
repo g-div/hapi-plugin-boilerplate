@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "hapi plugin",
   "devDependencies": {
-    "babel-cli": "^6.2.0",
+    "babel-cli": "^6.10.0",
     "babel-core": "^6.2.1",
     "babel-eslint": "^7.2.3",
     "babel-preset-es2015": "^6.1.18",
