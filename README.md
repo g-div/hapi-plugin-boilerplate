@@ -1,5 +1,7 @@
 # hapi-plugin-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/g-div/hapi-plugin-boilerplate.svg)](https://greenkeeper.io/)
+
 [![npm](https://img.shields.io/npm/v/hapi-plugin-boilerplate.svg)](http://npmjs.org/package/hapi-plugin-boilerplate) [![travis-status](https://img.shields.io/travis/g-div/hapi-plugin-boilerplate.svg)](https://travis-ci.org/g-div/hapi-plugin-boilerplate)
 
 hapi plugin
